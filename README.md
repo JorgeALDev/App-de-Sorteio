@@ -1,4 +1,4 @@
-# 🎲 Sorteador de Campeões - League of Legends ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-D32936?style=for-the-badge&logo=leagueoflegends&logoColor=white)
+# 🎲 Sorteador de Campeões - ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-D32936?style=for-the-badge&logo=leagueoflegends&logoColor=white)
 
 <div align="center">
 
