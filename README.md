@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/RrJAb2I.png" width="150" height="150" alt="League of Legends Logo"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leagueoflegends.svg" width="150" height="150" alt="League of Legends Logo"/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
