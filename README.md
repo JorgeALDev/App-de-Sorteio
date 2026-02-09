@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/games/league-of-legends.svg" width="120" height="120" alt="League of Legends Logo"](https://logodownload.org/wp-content/uploads/2019/11/league-of-legends-logo-1.png)/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/games/league-of-legends.svg" width="150" height="150" alt="League of Legends Logo"/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
